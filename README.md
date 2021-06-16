@@ -38,7 +38,7 @@ The data set is provided from Udacity, It has 11 columns
 
 There are no complicated project steps in this project. just run Project_1B_ Project_Template.ipynb 
 
-if there's some issue with the first cells that mean Udacity has changed their cursor and session configurations. but don't worry the code is carefully commented and the logic works fine.
+if there's some issue with the first cells that means Udacity has changed their cursor and session configurations. but don't worry the code is carefully commented and the logic still works fine.
 
 Have fun learning! 
 
